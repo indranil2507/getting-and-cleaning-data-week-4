@@ -1,4 +1,4 @@
-<h1>Getting-and-Cleaning-Data-Week-4-Assignment<h1>
+<h1>Getting-and-Cleaning-Data-Week-4-Assignment</h1>
 <br>
 This project includes four files: README.md, codebook.md, run_analysis.R, tidy_data.txt
 
